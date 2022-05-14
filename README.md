@@ -14,3 +14,21 @@ I'm planning to implement the following features for now.
 Please feel free to contact me if you have any questions about this code implementation or if I can help you with consulting / developing satellite development :)
 
 コードに関する質問や，人工衛星の開発で何かお手伝いできることがあれば，気軽にお問合せください！
+
+
+# License
+```
+Copyright 2022 yasakura
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
