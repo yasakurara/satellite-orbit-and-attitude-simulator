@@ -15,6 +15,11 @@ Please feel free to contact me if you have any questions about this code impleme
 
 コードに関する質問や，人工衛星の開発で何かお手伝いできることがあれば，気軽にお問合せください！
 
+# How to build
+1. `cd build`
+2. `cmake ..`
+3. `cd src; make`
+4. `./app`
 
 # License
 ```
